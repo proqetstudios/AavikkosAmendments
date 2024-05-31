@@ -1,0 +1,17 @@
+[NAME] value=Basic_regulations_regarding_the_breeding_and_medical_care_of_farm_animals.
+[CREATOR] value=Aavikko
+[CATEGORY] value=Common_agricultural_policy
+[THEME] value=Food_quality
+[THEME] value=Agriculture_and_local_development
+[THEME] value=Environment,_Public_health_and_food_security
+[OWNER] value=Regulations_governing_the_transport_and_slaughter_of_farm_animals.
+[EFFECT] targetName=GDP value=0.9992
+[EFFECT] targetName=Food_price value=1.01
+[EFFECT] targetName=Food_quality value=1.011
+[IDEOLOGICALPOSITION] ideologyName=socialism value=60
+[IDEOLOGICALPOSITION] ideologyName=populism value=70
+[IDEOLOGICALPOSITION] ideologyName=environmentalism value=51
+[VOTINGGROUP] value=Parliament
+[VOTINGGROUP] value=Council
+[VOTINGGROUP] value=Agriculture_and_local_development
+[ENABLED] value=False

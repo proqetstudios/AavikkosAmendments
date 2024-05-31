@@ -1,0 +1,18 @@
+[NAME] value=Exclude_small_animal_farms_from_some_of_the_regulations
+[CREATOR] value=Aavikko
+[CATEGORY] value=Common_agricultural_policy
+[THEME] value=Food_quality
+[THEME] value=Agriculture_and_local_development
+[THEME] value=Environment,_Public_health_and_food_security
+[EXCLUDES] value=Ban_the_animal_farms_that_do_not_comply_with_breeding_regulations_and_breeding_for_personal_use
+[OWNER] value=Set_requirements_for_minimum_space_and_accessibility_to_the_enclosure_for_farm_animals
+[EFFECT] targetName=Food_price value=0.9998
+[EFFECT] targetName=Food_security value=1.005
+[IDEOLOGICALPOSITION] ideologyName=capitalism value=55
+[IDEOLOGICALPOSITION] ideologyName=populism value=58
+[IDEOLOGICALPOSITION] ideologyName=liberalism value=54
+[VOTINGGROUP] value=Parliament
+[VOTINGGROUP] value=Council
+[VOTINGGROUP] value=Agriculture_and_local_development
+[VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
+[ENABLED] value=False

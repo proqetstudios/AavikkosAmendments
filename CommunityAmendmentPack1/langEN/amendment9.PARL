@@ -1,0 +1,18 @@
+[NAME] value=Set_requirements_for_minimum_space_and_accessibility_to_the_enclosure_for_farm_animals.
+[CREATOR] value=Aavikko
+[CATEGORY] value=Common_agricultural_policy
+[THEME] value=Food_quality
+[THEME] value=Agriculture_and_local_development
+[THEME] value=Environment,_Public_health_and_food_security
+[OWNER] value=Basic_regulations_regarding_the_breeding_and_medical_care_of_farm_animals.
+[EFFECT] targetName=GDP value=0.9997
+[EFFECT] targetName=Food_price value=1.008
+[EFFECT] targetName=Food_quality value=1.0001
+[IDEOLOGICALPOSITION] ideologyName=socialism value=58
+[IDEOLOGICALPOSITION] ideologyName=populism value=74
+[IDEOLOGICALPOSITION] ideologyName=environmentalism value=52
+[VOTINGGROUP] value=Parliament
+[VOTINGGROUP] value=Council
+[VOTINGGROUP] value=Agriculture_and_local_development
+[VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
+[ENABLED] value=False

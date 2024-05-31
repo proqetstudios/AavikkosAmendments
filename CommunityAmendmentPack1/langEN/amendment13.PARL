@@ -1,0 +1,21 @@
+[NAME] value=start_research_on_alternative_meat production_options
+[CREATOR] value=Aavikko
+[CATEGORY] value=Food_security
+[THEME] value=Agriculture_and_rural_development
+[THEME] value=Environment,_Public_health_and_food_security
+[THEME] value=Research_and_energy
+[OWNER] value=Collaborate_with_research_organizations,_universities,_and_agricultural_experts_to_identify_key_research_areas_to_address_food_security_challenges
+[EFFECT] targetName=GDP value=1.003
+[EFFECT] targetName=Budget value=0.997
+[EFFECT] targetName=Food_security value=1.004
+[IDEOLOGICALPOSITION] ideologyName=socialism value=55
+[IDEOLOGICALPOSITION] ideologyName=technocratism value=65
+[IDEOLOGICALPOSITION] ideologyName=environmentalism value=78
+[IDEOLOGICALPOSITION] ideologyName=globalism value=60
+[IDEOLOGICALPOSITION] ideologyName=liberalism value=55
+[VOTINGGROUP] value=Parliament
+[VOTINGGROUP] value=Council
+[VOTINGGROUP] value=Agriculture_and_Rural_Development
+[VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
+[VOTINGGROUP] value=Research_and_Energy
+[ENABLED] value=True
