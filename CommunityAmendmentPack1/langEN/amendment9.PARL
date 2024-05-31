@@ -1,16 +1,19 @@
-[NAME] value=Set_requirements_for_minimum_space_and_accessibility_to_the_enclosure_for_farm_animals.
+[NAME] value=Ban_the_animal_farms_that_do_not_comply_with_breeding_regulations_and_breeding_for_personal_use
 [CREATOR] value=Aavikko
 [CATEGORY] value=Common_agricultural_policy
-[THEME] value=Food_quality
 [THEME] value=Agriculture_and_local_development
 [THEME] value=Environment,_Public_health_and_food_security
-[OWNER] value=Basic_regulations_regarding_the_breeding_and_medical_care_of_farm_animals.
-[EFFECT] targetName=GDP value=0.9997
-[EFFECT] targetName=Food_price value=1.008
-[EFFECT] targetName=Food_quality value=1.0001
-[IDEOLOGICALPOSITION] ideologyName=socialism value=58
-[IDEOLOGICALPOSITION] ideologyName=populism value=74
-[IDEOLOGICALPOSITION] ideologyName=environmentalism value=52
+[THEME] value=Food_quality
+[EXCLUDES] value=Impose_cyclical_financial_fees_on_companies_that_do_not_comply_with_breeding_regulations
+[EXCLUDES] value=Exclude_small_animal_farms_from_some_of_the_regulations
+[OWNER] value=Set_requirements_for_minimum_space_and_accessibility_to_the_enclosure_for_farm_animals
+[EFFECT] targetName=GPD value=0.994
+[EFFECT] targetName=Food_price value=1.015
+[EFFECT] targetName=Food_security value=0.012
+[EFFECT] targetName=Food_quality value=1.025
+[IDEOLOGICALPOSITION] ideologyName=socialism value=70
+[IDEOLOGICALPOSITION] ideologyName=populism value=57
+[IDEOLOGICALPOSITION] ideologyName=conservatism value=54
 [VOTINGGROUP] value=Parliament
 [VOTINGGROUP] value=Council
 [VOTINGGROUP] value=Agriculture_and_local_development

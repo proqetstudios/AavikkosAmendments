@@ -1,0 +1,20 @@
+[NAME] value=tax_on_foreign_imported_food
+[CREATOR] value=Aavikko
+[CATEGORY] value=Food_security
+[THEME] value=Environment,_Public_Health_and_Food_Security
+[THEME] value=Agriculture_and_Rural_Development
+[THEME] value=International_Trade
+[EFFECT] targetName=GDP value=0,998
+[EFFECT] targetName=Budget value=1.025
+[EFFECT] targetName=Food_price value=1.025
+[EFFECT] targetName=Food_security value=1.06
+[IDEOLOGICALPOSITION] ideologyName=socialism value=65
+[IDEOLOGICALPOSITION] ideologyName=conservatism value=55
+[IDEOLOGICALPOSITION] ideologyName=nationalism value=70
+[IDEOLOGICALPOSITION] ideologyName=industrialism value=60
+[VOTINGGROUP] value=Parliament
+[VOTINGGROUP] value=Council
+[VOTINGGROUP] value=Agriculture_and_Rural_Development
+[VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
+[VOTINGGROUP] value=International_Trade
+[ENABLE] value=True

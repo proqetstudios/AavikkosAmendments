@@ -1,18 +1,21 @@
-[NAME] value=Impose_cyclical_financial_fees_on_companies_that_do_not_comply_with_breeding_regulations
+[NAME] value=start_research_on_alternative_meat production_options
 [CREATOR] value=Aavikko
-[CATEGORY] value=Common_agricultural_policy
-[THEME] value=Agriculture_and_local_development
-[THEME] value=Food_quality
-[EXCLUDES] value=Ban_the_animal_farms_that_do_not_comply_with_breeding_regulations_and_breeding_for_personal_use
-[OWNER] value=Set_requirements_for_minimum_space_and_accessibility_to_the_enclosure_for_farm_animals
-[EFFECT] targetName=GDP value=0.997
-[EFFECT] targetName=Budget value=1.005
-[EFFECT] targetName=Food_price value=1.02
-[IDEOLOGICALPOSITION] ideologyName=socialism value=69
-[IDEOLOGICALPOSITION] ideologyName=populism value=61
-[IDEOLOGICALPOSITION] ideologyName=environmentalism value=54
+[CATEGORY] value=Food_security
+[THEME] value=Agriculture_and_rural_development
+[THEME] value=Environment,_Public_health_and_food_security
+[THEME] value=Research_and_energy
+[OWNER] value=Collaborate_with_research_organizations,_universities,_and_agricultural_experts_to_identify_key_research_areas_to_address_food_security_challenges
+[EFFECT] targetName=GDP value=1.003
+[EFFECT] targetName=Budget value=0.997
+[EFFECT] targetName=Food_security value=1.004
+[IDEOLOGICALPOSITION] ideologyName=socialism value=55
+[IDEOLOGICALPOSITION] ideologyName=technocratism value=65
+[IDEOLOGICALPOSITION] ideologyName=environmentalism value=78
+[IDEOLOGICALPOSITION] ideologyName=globalism value=60
+[IDEOLOGICALPOSITION] ideologyName=liberalism value=55
 [VOTINGGROUP] value=Parliament
 [VOTINGGROUP] value=Council
-[VOTINGGROUP] value=Agriculture_and_local_development
+[VOTINGGROUP] value=Agriculture_and_Rural_Development
 [VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
-[ENABLED] value=False
+[VOTINGGROUP] value=Research_and_Energy
+[ENABLED] value=True
