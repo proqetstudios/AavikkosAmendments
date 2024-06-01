@@ -1,9 +1,9 @@
-[NAME] value=start_research_on_alternative_meat production_options
+[NAME] value=Start_research_on_alternative_meat production_options
 [CREATOR] value=Aavikko
-[CATEGORY] value=Food_security
-[THEME] value=Agriculture_and_rural_development
-[THEME] value=Environment,_Public_health_and_food_security
-[THEME] value=Research_and_energy
+[CATEGORY] value=Food_Security
+[THEME] value=Agriculture_and_Rural_Development
+[THEME] value=Environment,_Public_Health_and_Food_Security
+[THEME] value=Research_and_Energy
 [OWNER] value=Collaborate_with_research_organizations,_universities,_and_agricultural_experts_to_identify_key_research_areas_to_address_food_security_challenges
 [EFFECT] targetName=GDP value=1.003
 [EFFECT] targetName=Budget value=0.997

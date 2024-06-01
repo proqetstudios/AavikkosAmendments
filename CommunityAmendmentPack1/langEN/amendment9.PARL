@@ -1,8 +1,8 @@
 [NAME] value=Ban_the_animal_farms_that_do_not_comply_with_breeding_regulations_and_breeding_for_personal_use
 [CREATOR] value=Aavikko
-[CATEGORY] value=Common_agricultural_policy
-[THEME] value=Agriculture_and_local_development
-[THEME] value=Environment,_Public_health_and_food_security
+[CATEGORY] value=Common_Agricultural_Policy
+[THEME] value=Agriculture_and_Local_Development
+[THEME] value=Environment,_Public_Health_and_Food_Security
 [THEME] value=Food_quality
 [EXCLUDES] value=Impose_cyclical_financial_fees_on_companies_that_do_not_comply_with_breeding_regulations
 [EXCLUDES] value=Exclude_small_animal_farms_from_some_of_the_regulations
@@ -16,6 +16,6 @@
 [IDEOLOGICALPOSITION] ideologyName=conservatism value=54
 [VOTINGGROUP] value=Parliament
 [VOTINGGROUP] value=Council
-[VOTINGGROUP] value=Agriculture_and_local_development
+[VOTINGGROUP] value=Agriculture_and_Local_Development
 [VOTINGGROUP] value=Environment,_Public_Health_and_Food_Security
-[ENABLED] value=False
+[ENABLED] value=True

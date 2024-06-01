@@ -1,9 +1,9 @@
 [NAME] value=Co-finance_agricultural_middle_and_higher_schools
 [CREATOR] value=Aavikko
-[CATEGORY] value=Common_agricultural_policy
-[THEME] value=Agriculture_and_rural_development
+[CATEGORY] value=Common_Agricultural_Policy
+[THEME] value=Agriculture_and_Rural_Development
 [THEME] value=Agricultural_subsidies
-[OWNER] value=ance_subsidies_for_eco-friendly_farming_practices,_conservation_efforts,_and_agroecology,_and_introduce_stricter_environmental_criteria_in_subsidy_allocation
+[OWNER] value=Enhance_subsidies_for_eco-friendly_farming_practices,_conservation_efforts,_and_agroecology,_and_introduce_stricter_environmental_criteria_in_subsidy_allocation
 [EFFECT] targetName=Budget value=0.96
 [EFFECT] targetName=Unemployment value=0.999
 [EFFECT] targetName=Environment value=1.004
@@ -14,5 +14,5 @@
 [IDEOLOGICALPOSITION] ideologyName=environmentalism=52
 [VOTINGGROUP] value=Parliament
 [VOTINGGROUP] value=Council
-[VOTINGGROUP] value=Agriculture_and_rural_development
-[ENABLE] value=True
+[VOTINGGROUP] value=Agriculture_and_Rural_Development
+[ENABLED] value=True

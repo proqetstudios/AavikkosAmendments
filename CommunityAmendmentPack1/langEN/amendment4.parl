@@ -1,9 +1,9 @@
-[NAME] value=Regulations_governing_the_transport_and_slaughter_of_farm_animals.
+[NAME] value=Regulations_governing_the_transport_and_slaughter_of_farm_animals
 [CREATOR] value=Aavikko
-[CATEGORY] value=Common_agricultural_policy
+[CATEGORY] value=Common_Agricultural_Policy
 [THEME] value=Food_quality
-[THEME] value=Agriculture_and_local_development
-[THEME] value=Environment,_Public_health_and_food_security
+[THEME] value=Agriculture_and_Local_Development
+[THEME] value=Environment,_Public_Health_and_Food_Security
 [EFFECT] targetName=GPD value=0.9998
 [EFFECT] targetName=Food_price value=1.006
 [EFFECT] targetName=Food_quality value=1.002
@@ -12,5 +12,5 @@
 [IDEOLOGICALPOSITION] ideologyName=environmentalism value=51
 [VOTINGGROUP] value=Parliament
 [VOTINGGROUP] value=Council
-[VOTINGGROUP] value=Agriculture_and_local_development
-[ENABLED] value=False
+[VOTINGGROUP] value=Agriculture_and_Local_Development
+[ENABLED] value=True
